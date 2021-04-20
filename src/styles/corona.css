@@ -1,0 +1,61 @@
+body{
+  background-color:#eeea77 ;
+  margin-top: 170px;
+  margin-bottom: auto;
+}
+.name{
+    font-size: 2.5em;
+    color: #1f1f1f;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+.corona-body{
+  height: 100vh;
+  width: 100vw;
+  background-color: #eeea77 ;
+}
+.confirm{
+    background-color: #e67e22 ;
+    border: 1 px solid #34495e ;
+  
+  }
+  .c-title{
+font-size: 1.8em;
+font-weight: 200; 
+color: white;
+font-family: sans-serif;
+margin-top: 25px;
+margin-bottom: 0px;
+}
+  .c-body{
+      font-weight: bold;
+  }
+  
+  .recovered{
+    background-color: #2ecc71 ;
+    border: 1 px solid #34495e;
+  
+  }
+  .box{
+      border-radius: 30px;
+      
+  }
+  .card-decks{
+      margin-top: 2em;
+  }
+  
+  .deaths{
+    background-color: #e74c3c ;
+    border: 1 px solid #34495e;
+  }
+.number{
+  font-size: 2.5em;
+}
+
+.judul{
+  font-size: 4em;
+  color: #6f6c2b;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
